@@ -1,0 +1,3 @@
+[submodule "http-client"]
+	path = http-client
+	url = git@github.com:AlayaCare/android-http-client.git
